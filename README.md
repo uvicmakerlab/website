@@ -1,4 +1,4 @@
 website
 =======
 
-Content and code for the Maker Lab's website (maker.uvic.ca)
+Content and markup for the Maker Lab in the Humanities website at maker.uvic.ca
