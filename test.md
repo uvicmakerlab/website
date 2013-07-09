@@ -42,3 +42,69 @@ Let the active construction of knowledge in and through our objects begin.&nbsp;
 <br>
 <hr>Author: <a style="z-index: 0; position: relative;" href="users/17" rel="urn:scalar:version:24061">Jentery Sayers</a><br>
 Word Count: 951</div>
+
+<h4 class="content_title">1. Workflow</h4>
+<div id="content"><b>Part I: Workflow in Principle</b><br>
+<br>
+<p>Talking about a “workflow” (or a sequence of steps in the scholarly&nbsp; labor process) seems so banal, boring, and obvious. But, the thing is, how you routinely write and conduct research—and through what mechanisms—really matters, especially when you are frequently engaging digital materials. What’s more, we are arguably in a cultural moment where all of us are still learning how to produce knowledge in rapidly changing environments. There is an abundance of options or apps (some free, some not; some helpful, some a waste of time), and they are all aimed at particular audiences, under certain assumptions about how content is (or should be) created, used, stored, and circulated. To be sure, even the software we use is ideological in character.</p><p>So, for a humanities take on a scholarly workflow (whatever that ultimately means), we’ll look to <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/turkel_1.png" resource="media/screengrab-of-william-j-turkels-blog" rel="urn:scalar:version:23854">William J. Turkel</a>’s <a style="z-index: 0;" title="to the site" href="http://williamjturkel.net/how-to/" target="_blank">“A Workflow for Digital Research Using Off-the-Shelf Tools.”</a></p><p>Please read it carefully, and note that it&nbsp;consists of nine individual entries (e.g., “Make Local Copies of Everything” and “Measure and Refactor Constantly”), not just the index page labeled “how to.”</p><p>As you read, I recommend testing a few of the options Turkel recommends. Most of them are free and open-source, a few of them are addictive (or maybe that’s just me), and many of them are common in higher education (especially in the humanities).<br>
+</p><p>If, when you are finished, you find that you are not interested in anything he suggests, then fine by me. This is not an exercise in bandwagon-hopping, digital humanities hipster-ism, or evangelizing for particular technologies. You are more than welcome to stick with what you are currently using and doing. All I ask is that you reflect on your decisions and spell them out.</p><p><strong>Learning Outcomes</strong></p><p>For you to:</p><ul><li>Start (if you haven’t already) thinking deliberately about how you gather and compose media in digital environments,</li><li>Articulate (if only in the ideal) what your everyday writing and research workflow will be for this seminar,</li><li>Unpack the ways in which some technologies influence knowledge-production and under what assumptions about their consumers, and</li><li>Gather a sense of how others in the field do work, and through what applications and techniques.</li></ul><p><strong>What You Should Include in Your Response </strong>(Length: 500 – 1000 words, text only, due in print during seminar on January 12th) <br>
+</p><p>While I recommend covering all nine areas Turkel addresses, in writing please respond at least to the following:</p><ul><li>What web browser(s) will you be using, and how (if at all) are you customizing it/them? Why? (See Turkel,&nbsp;<a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/03/15/going-digital/" target="_blank">“Going Digital.”</a>)</li><li>What’s your backup strategy? How frequently do you (or will you) backup your work? (See Turkel, <a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/02/22/backup-and-versioning/" target="_blank">“Start with a Backup and Versioning Strategy.”</a>)</li><li>How will you routinely make local copies? How will you “clip” or save the ostensibly ephemeral web content you are engaging? (See Turkel,<a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/03/07/make-local-copies/" target="_blank">“Make Local Copies of Everything.”</a>)</li><li>What apps will you be using for writing? What’s the purpose of each? (See Turkel, <a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/04/04/write-and-cluster/" target="_blank">“Write and Cluster Small Texts.”</a>)</li><li>More generally speaking, what do you think these steps suggest (if only tacitly) about your research and writing processes? What are you delegating to a computer, and what do you insist on doing manually?</li></ul><p>To help you along, I’ve created a <a style="z-index: 0;" class="texteo_icon texteo_icon_video" href="http://player.vimeo.com/video/34515157" resource="34515157" rel="urn:scalar:version:3494">short video</a>. It gives you a cursory sense of what, on a regular basis, I use for research and writing purposes. (Many things are of course missing, such as my use of an external hard drive as well as DEVONagent.) Also, here is a <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/extensions.png" resource="media/screengrab-of-chrome-extensions" rel="urn:scalar:version:23856">screenshot</a> of the Google <a style="z-index: 0;" title="to chrome" href="https://www.google.com/chrome/" target="_blank">Chrome</a> extensions I use. Take them or leave them. And again: during this seminar feel free to stick with what you feel is the best fit for your own style and habits.</p><p>Of note, for the next contribution to your log (i.e., Part II below), you’ll actually be walking us through the steps of your workflow (either through video or a combination of text and stills). Keep that next step in mind as you write this explanation.</p><p>Let me know what questions you have, or where you’d like me to elaborate.</p><b>Part II: Workflow in Action</b><br>
+<br>
+It is one thing to explain your workflow in writing, and it something else entirely to document it in action. Based on what you've already done, now it is time to do just that---using either a screencast or a combination of text and screenshots. (New to screencasting, but want to give it a whirl? Give Bohon's <a style="z-index: 0;" title="to profhacker" href="http://chronicle.com/blogs/profhacker/screencasting-101-the-definitive-guide/22738" target="_blank">"Screencasting 101"</a> a gander.)<br>
+<br>
+And since you'll be sharing that documentation in Scalar, you might also find <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/workflow_action.png" resource="media/workflow_action" rel="urn:scalar:version:23852">Mark Sample</a>'s <a style="z-index: 0;" title="to Sample's blog" href="http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/" target="_blank">"The Digital Humanities Is Not about Building, It's about Sharing"</a> of interest. <br>
+<br>
+<b>Learning Outcomes for the Prompt</b><br>
+<br>
+For you to: <br>
+<ul><li>Mobilize the workflow you already articulated, <br>
+</li><li>Get some experience in documenting your research and writing processes, <br>
+</li><li>Communicate to others how you work with digital materials, and <br>
+</li><li>Publish your first bit of content in Scalar (based on what you learned during the January 12th workshop).</li></ul><b>What You Should Include in Your Response </b>(Option A: 500 – 1000 words with screenshots; Option B: 1- to 2-minute screencast with text or vocal track; both posted in Scalar before seminar on January 19th)&nbsp;<br>
+<br>
+In your response, please: <br>
+<ul><li>Give those of us in the seminar a concrete sense (e.g., by allowing us to see your screen) of how you move across: (a) browsing, (b) backing-up, (c) making local copies, and (d) writing,</li><li>Create a narrative (in words or via a track of titles or vocals) across these steps in order to help us transition from one step to the next, and</li><li>When necessary, explain or justify your decisions (e.g., why that app? what else did you try?).</li></ul>If you are screencasting, then you'll want to use Vimeo, YouTube, or your own server (at UVic or elsewhere) for storage. During the semester, we will not be using the Scalar server to house audio or video files. Images and text only, folks. (I addressed this issue during our January 12th workshop but see me with questions.)<br>
+<br>
+Most importantly: have fun with this one. Test Scalar and see how you can express a workflow in various ways. And as you compose, consider how these steps will transfer to the study of literature in digital environments.<br>
+<br>
+<hr>Author: <a style="z-index: 0; position: relative;" href="users/17" rel="urn:scalar:version:20147">Jentery Sayers</a><br>
+Word Count: 913<br>
+Original Prompt: <a style="z-index: 0; position: relative;" href="http://web.uvic.ca/~englblog/507s2012/portfolio/meeting-2/">"Workflow, Part I"</a> and <a style="z-index: 0; position: relative;" href="http://web.uvic.ca/~englblog/507s2012/portfolio/meeting-3/">"Workflow, Part II"<br>
+</a><br>
+Example student responses follow in this path.</div>
+
+<div class="content" id="content_wrapper">
+<!-- Content: Plain view -->
+<div id="content"><a class="inline media_page" href="http://player.vimeo.com/video/35305611" resource="macpherson-workflow-page1"></a><div class="inline_slot"><div style="width: 460.667px; margin-left: 165.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">A Workflow, Analog and Digital<span style="font-size:10px"> / Shaun Macpherson / Vimeo</span></p><p class="mediaElementAlignRight annotationToggle"><a href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 5px 4px;" class="mediaObject"><iframe style="width: 450.667px; height: 338px;" id="vimeo35305611_0" src="http://player.vimeo.com/video/35305611?api=1&amp;player_id=vimeo35305611_0" frameborder="0"></iframe></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a id="viewPageLink" class="generic_button">View Page</a> <a id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div></div>
+
+<div id="referenced">Referenced by <a href="http://scalar.usc.edu/maker/english-507/users/107">Shaun Macpherson</a></div><!-- Reply list -->
+<div id="reply_list">
+  
+   <a href="javascript:;" class="inline_icon_link reply reply_link">Join this media's discussion (1 comment)</a>
+ 
+  
+
+	<div class="maximize" id="comments" style="opacity: 1;">
+		<div class="maximize_fade"></div>
+		<div class="maximize_content maximize_content_static_width">	
+			<div class="mediaElementHeader mediaElementHeaderWithNavBar">
+				<ul class="nav_bar_options">
+					<span class="downArrow"><li id="max_desc_button" class="sel" title="Comments for this page">Local Discussion</li></span>
+					<span class="noArrow"><li id="max_perm_button" title="Load comments in a new browser window" onclick="popoutComments();">Popout</li></span>
+				</ul>
+				<span class="close_link"><a id="close_link" title="Close" href="javascript:;">&nbsp;</a></span>
+				<p class="mediaElementAlignRight" style="display: block; "></p>
+			</div>
+			<div class="comments">
+				<h4 class="content_title">Discussion of "A Workflow, Analog and Digital"</h4>
+							
+				<div class="discussion">
+	
+<div class="comment level-0" style="margin-left:0px"><a name="comment-23544"></a>
+<p class="comment_title">Visualizing the Interface</p>
+The screencast format lends itself well to this exercise, since it allows us to visually express our relationships with the various interfaces we use. That said, the constraint on length (1–2 minutes) in the prompt made this response a challenge to work through. As the project unfolded, I realized how many different elements I could include. In the end, while the video was fun to make, the end product feels a bit rushed at times. In future, since we all enjoyed watching each other's submissions (both for production values and for the chance to see how each workflow plays out), it might work well to have each participant choose one or two programs or applications that they think others might benefit from learning more about, and using the time to demonstrate the features of these tools in more detail.<br>
+<br>
+<hr>Author: <a href="users/107" rel="urn:scalar:version:23532">Shaun Macpherson </a><br>
+Word Count: 140<p class="comment_attrib">Posted on 28 August 2012, 9:10 pm by Shaun Macpherson &nbsp;<span style="font-size:smaller;">| &nbsp;<a href="http://scalar.usc.edu/maker/english-507/macpherson-workflow-comment1" title="Permalink" onclick="return commentCheckPermalink(this);">Permalink</a></span></p>
+</div>
+
