@@ -1,110 +1,87 @@
-<h4 class="content_title">Welcome</h4>
-<div id="content">For <i>Cinema Journal</i> in 2009, Tara McPherson wrote the following: <br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/mcpherson_quote.png" resource="media/mcpherson_quote" rel="urn:scalar:version:24072"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Tara McPherson, "Media Studies and the Digital Humanities," Page 120<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 137px 4px; width: 781px; height: 73.7078px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/mcpherson_quote.png" style="width: 781px; height: 73.7078px;" alt="Screengrab of Article in Cinema Journal 48.2 (Winter 2009)"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-The "we" in McPherson's sentence may be interpreted as media studies practitioners in particular or humanities practitioners in general. And in 2012, I took her statement seriously as a challenge to teaching and learning at the graduate level. That year, I designed and taught a graduate seminar in the <a style="z-index: 0;" href="http://english.uvic.ca/">Department of English at the University of Victoria (UVic)</a>. The focus of the seminar, titled "English 507, Digital Literary Studies: History and Principles," was multimodal scholarly communications—or the blend of multiple media (e.g., maps, video, audio, graphs, code, images, and text) with various modes of attention (e.g., close listening, distant reading, distraction, computer vision, and repeated watching) toward persuasive, research-based argumentation. <br>
-<br>
-Throughout the semester, students in English 507 combined knowing and doing in response to various prompts. For practically every seminar meeting, an exercise in multimodal methods was due. I would post the prompts on <a style="z-index: 0;" href="http://web.uvic.ca/~englblog/507s2012/">the course site</a>, and then students would publish their responses in the seminar's collaborative "Scalar" book, a screengrab of which is below. (Learn more about&nbsp;<a style="z-index: 0; position: relative;" href="http://scalar.usc.edu/scalar/">Scalar</a>, if you are not familiar with it. It is also the platform used to compose this book.)&nbsp;<br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/engl507_originalbook.png" resource="media/engl507_originalbook" rel="urn:scalar:version:24074"></a><div class="inline_slot"><div style="width: 769.263px; margin-left: 11.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of Original English 507 Scalar Book (2012)<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 5px 4px; width: 759.263px; height: 338px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/engl507_originalbook.png" style="width: 759.263px; height: 338px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-I have never learned so much from teaching a course, and my learning was largely due to the range, sophistication, and curiosity of the students' work. <br>
-<br>
-Since English 507, the students and I collaborated to produce the Scalar book in front of you, a revision of the collaborative original. This book includes not only the prompts from English 507 but also example student responses for each. Additionally, for this publication, the students went an extra step in the writing process: they added a layer of both analysis and commentary to their own work. These added layers are rich and informative, demonstrating self-reflexivity and exhibiting perspectives too often marginalized by the pace of a quarter or semester. Such perspectives are also rarely represented in faculty publications on teaching and learning.&nbsp; <br>
-<br>
-That said, the ultimate aim of this book—a revision, analysis, and commentary on a semester's worth of multimodal communications produced in Scalar—is to give audiences a concrete sense of how graduate students are actively engaging the emerging and experimental terrain of digital scholarship. It is not a book brimming with hypotheticals. It is instead rife with actual instances of what multimodal composition in Scalar can afford, and what graduate students can do with and through it. &nbsp;<br>
-<br>
-The audiences for this book include people who want more examples of how to use Scalar (in and beyond the classroom) as well as writing studies instructors, literary critics, cultural studies scholars, digital humanities and media studies practitioners, transmedia artists, and anyone who develops and facilitates university curricula and related infrastructures. <br>
-<br>
-To help all of those audiences carve their way through the 35,000-plus words contained here, not to mention all of the media files, annotations, and comments, we have structured the book through eleven "paths" (i.e., linear sequences of often overlapping content) based on the following:<br>
-<br>
-(1) <a style="z-index: 0;" href="workflow" rel="urn:scalar:version:24051">English 507 prompts</a> (seven total paths: "Workflow," "Metadata," "Granulation," "Map," "Review," "Proposal," and "Roundtable")<br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/welcome_prompts.png" resource="media/welcome_prompts" rel="urn:scalar:version:24077"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of the Path for the "Workflow" Prompt<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 71px 4px; width: 781px; height: 204.071px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/welcome_prompts.png" style="width: 781px; height: 204.071px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-(2) <a style="z-index: 0;" href="analysis" rel="urn:scalar:version:24048">a student analysis of using Scalar in English 507</a>&nbsp;(one path)<br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/welcome_analysis.png" resource="media/welcome_analysis" rel="urn:scalar:version:24078"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of the Analysis Path<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 7px 4px; width: 781px; height: 333.709px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/welcome_analysis.png" style="width: 781px; height: 333.709px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-(3) <a style="z-index: 0;" href="authors" rel="urn:scalar:version:24064">the authors of this book</a>&nbsp;(one path)&nbsp;<br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/welcome_authors.png" resource="media/welcome_authors" rel="urn:scalar:version:24079"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of the Authors Path<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 3px 4px; width: 781px; height: 340.385px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/welcome_authors.png" style="width: 781px; height: 340.385px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-and (4) <a style="z-index: 0;" href="commentary" rel="urn:scalar:version:24066">student commentary on this book, Scalar, and English 507</a>&nbsp;(one path).<br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/welcome_commentary.png" resource="media/welcome_commentary" rel="urn:scalar:version:24080"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of the Commentary Path<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 8px 4px; width: 781px; height: 330.463px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/welcome_commentary.png" style="width: 781px; height: 330.463px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-Again, each prompt path provides audiences with a specific English 507 prompt and example student responses. The "analysis" path (written by Alyssa McLeod, Jana Millar Usiskin, and Emily Smith) then navigates its way through the prompts and example responses, using student work from the graduate seminar as evidence of the various scholarly inquiries and problematics involved in contemporary multimodal communications. The "authors" path gives audiences a sense of the students and faculty contributing to this book, and—finally—the "commentary" path informally adds frequently overlooked or unspoken perspectives on the intellectual, affective, and technical processes involved in composing multimodal communications.&nbsp; <br>
-<br>
-<a style="z-index: 0;" class="inline" href="media/welcome_hedley.png" resource="media/welcome_hedley" rel="urn:scalar:version:24081"></a><div class="inline_slot"><div style="width: 791px; margin-left: 0.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">Screengrab of an Example Comment, by Alison Hedley<span style="font-size:10px"></span></p><p class="mediaElementAlignRight annotationToggle"><a style="z-index: 0;" href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 45px 4px; width: 781px; height: 256.82px;" class="mediaObject"><img src="http://scalar.usc.edu/maker/english-507/media/welcome_hedley.png" style="width: 781px; height: 256.82px;" alt="From English 507 at the University of Victoria"></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a style="z-index: 0;" id="viewPageLink" class="generic_button">View Page</a> <a style="z-index: 0;" id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div><br>
-All of these paths have been bundled below, in the "welcome" path, which allows visitors to survey the book and dive into their particular areas of interest (e.g., research on multimodal communication, teaching materials for digital literary studies, or sample work by graduate students contributing to digital humanities curricula) through a specific path.&nbsp; <br>
-<br>
-The use of Scalar aside, audiences will likely notice at least two unusual things about this book: first, beyond the prompts and introductions to each path, the instructor has written little. My motivation for this approach to the book was to facilitate student work rather than overshadow it (e.g., by speaking for or about it). As such, most of my contributions—beyond designing and teaching the seminar—assumed the form of feedback, consultation, editing the book, designing it, and sparking collaborations amongst students. <br>
-<br>
-Second, analysis and commentary—especially in the "proposal"&nbsp;and "roundtable"&nbsp;paths—frequently reference the students' final projects and papers for 507. However, those actual projects and papers are not included here. The rationale for this decision was to give students the opportunity to continue developing and perhaps publish elsewhere the research they began (or furthered) in the seminar, making this book primarily a space for documenting research procedures, processes, and reflections. With support from the Department of English at UVic, the Social Sciences and Humanities Research Council of Canada, the Electronic Textual Cultures Lab at UVic, the Maker Lab in the Humanities at UVic, the Digital Humanities Summer Institute, and the HASTAC Scholars Program, that research has indeed continued well into 2012, and I encourage audiences to continue following the work of the authors included here. Not only is it inspiring; it is gradually changing the contours of scholarly argumentation and expression.&nbsp; <br>
-<br>
-Let the active construction of knowledge in and through our objects begin.&nbsp;<br>
-<br>
-<hr>Author: <a style="z-index: 0; position: relative;" href="users/17" rel="urn:scalar:version:24061">Jentery Sayers</a><br>
-Word Count: 951</div>
+##Welcome 
 
-<h4 class="content_title">1. Workflow</h4>
-<div id="content"><b>Part I: Workflow in Principle</b><br>
-<br>
-<p>Talking about a “workflow” (or a sequence of steps in the scholarly&nbsp; labor process) seems so banal, boring, and obvious. But, the thing is, how you routinely write and conduct research—and through what mechanisms—really matters, especially when you are frequently engaging digital materials. What’s more, we are arguably in a cultural moment where all of us are still learning how to produce knowledge in rapidly changing environments. There is an abundance of options or apps (some free, some not; some helpful, some a waste of time), and they are all aimed at particular audiences, under certain assumptions about how content is (or should be) created, used, stored, and circulated. To be sure, even the software we use is ideological in character.</p><p>So, for a humanities take on a scholarly workflow (whatever that ultimately means), we’ll look to <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/turkel_1.png" resource="media/screengrab-of-william-j-turkels-blog" rel="urn:scalar:version:23854">William J. Turkel</a>’s <a style="z-index: 0;" title="to the site" href="http://williamjturkel.net/how-to/" target="_blank">“A Workflow for Digital Research Using Off-the-Shelf Tools.”</a></p><p>Please read it carefully, and note that it&nbsp;consists of nine individual entries (e.g., “Make Local Copies of Everything” and “Measure and Refactor Constantly”), not just the index page labeled “how to.”</p><p>As you read, I recommend testing a few of the options Turkel recommends. Most of them are free and open-source, a few of them are addictive (or maybe that’s just me), and many of them are common in higher education (especially in the humanities).<br>
-</p><p>If, when you are finished, you find that you are not interested in anything he suggests, then fine by me. This is not an exercise in bandwagon-hopping, digital humanities hipster-ism, or evangelizing for particular technologies. You are more than welcome to stick with what you are currently using and doing. All I ask is that you reflect on your decisions and spell them out.</p><p><strong>Learning Outcomes</strong></p><p>For you to:</p><ul><li>Start (if you haven’t already) thinking deliberately about how you gather and compose media in digital environments,</li><li>Articulate (if only in the ideal) what your everyday writing and research workflow will be for this seminar,</li><li>Unpack the ways in which some technologies influence knowledge-production and under what assumptions about their consumers, and</li><li>Gather a sense of how others in the field do work, and through what applications and techniques.</li></ul><p><strong>What You Should Include in Your Response </strong>(Length: 500 – 1000 words, text only, due in print during seminar on January 12th) <br>
-</p><p>While I recommend covering all nine areas Turkel addresses, in writing please respond at least to the following:</p><ul><li>What web browser(s) will you be using, and how (if at all) are you customizing it/them? Why? (See Turkel,&nbsp;<a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/03/15/going-digital/" target="_blank">“Going Digital.”</a>)</li><li>What’s your backup strategy? How frequently do you (or will you) backup your work? (See Turkel, <a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/02/22/backup-and-versioning/" target="_blank">“Start with a Backup and Versioning Strategy.”</a>)</li><li>How will you routinely make local copies? How will you “clip” or save the ostensibly ephemeral web content you are engaging? (See Turkel,<a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/03/07/make-local-copies/" target="_blank">“Make Local Copies of Everything.”</a>)</li><li>What apps will you be using for writing? What’s the purpose of each? (See Turkel, <a style="z-index: 0;" title="to the page" href="http://williamjturkel.net/2011/04/04/write-and-cluster/" target="_blank">“Write and Cluster Small Texts.”</a>)</li><li>More generally speaking, what do you think these steps suggest (if only tacitly) about your research and writing processes? What are you delegating to a computer, and what do you insist on doing manually?</li></ul><p>To help you along, I’ve created a <a style="z-index: 0;" class="texteo_icon texteo_icon_video" href="http://player.vimeo.com/video/34515157" resource="34515157" rel="urn:scalar:version:3494">short video</a>. It gives you a cursory sense of what, on a regular basis, I use for research and writing purposes. (Many things are of course missing, such as my use of an external hard drive as well as DEVONagent.) Also, here is a <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/extensions.png" resource="media/screengrab-of-chrome-extensions" rel="urn:scalar:version:23856">screenshot</a> of the Google <a style="z-index: 0;" title="to chrome" href="https://www.google.com/chrome/" target="_blank">Chrome</a> extensions I use. Take them or leave them. And again: during this seminar feel free to stick with what you feel is the best fit for your own style and habits.</p><p>Of note, for the next contribution to your log (i.e., Part II below), you’ll actually be walking us through the steps of your workflow (either through video or a combination of text and stills). Keep that next step in mind as you write this explanation.</p><p>Let me know what questions you have, or where you’d like me to elaborate.</p><b>Part II: Workflow in Action</b><br>
-<br>
-It is one thing to explain your workflow in writing, and it something else entirely to document it in action. Based on what you've already done, now it is time to do just that---using either a screencast or a combination of text and screenshots. (New to screencasting, but want to give it a whirl? Give Bohon's <a style="z-index: 0;" title="to profhacker" href="http://chronicle.com/blogs/profhacker/screencasting-101-the-definitive-guide/22738" target="_blank">"Screencasting 101"</a> a gander.)<br>
-<br>
-And since you'll be sharing that documentation in Scalar, you might also find <a style="z-index: 0;" class="texteo_icon texteo_icon_image" href="media/workflow_action.png" resource="media/workflow_action" rel="urn:scalar:version:23852">Mark Sample</a>'s <a style="z-index: 0;" title="to Sample's blog" href="http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/" target="_blank">"The Digital Humanities Is Not about Building, It's about Sharing"</a> of interest. <br>
-<br>
-<b>Learning Outcomes for the Prompt</b><br>
-<br>
-For you to: <br>
-<ul><li>Mobilize the workflow you already articulated, <br>
-</li><li>Get some experience in documenting your research and writing processes, <br>
-</li><li>Communicate to others how you work with digital materials, and <br>
-</li><li>Publish your first bit of content in Scalar (based on what you learned during the January 12th workshop).</li></ul><b>What You Should Include in Your Response </b>(Option A: 500 – 1000 words with screenshots; Option B: 1- to 2-minute screencast with text or vocal track; both posted in Scalar before seminar on January 19th)&nbsp;<br>
-<br>
-In your response, please: <br>
-<ul><li>Give those of us in the seminar a concrete sense (e.g., by allowing us to see your screen) of how you move across: (a) browsing, (b) backing-up, (c) making local copies, and (d) writing,</li><li>Create a narrative (in words or via a track of titles or vocals) across these steps in order to help us transition from one step to the next, and</li><li>When necessary, explain or justify your decisions (e.g., why that app? what else did you try?).</li></ul>If you are screencasting, then you'll want to use Vimeo, YouTube, or your own server (at UVic or elsewhere) for storage. During the semester, we will not be using the Scalar server to house audio or video files. Images and text only, folks. (I addressed this issue during our January 12th workshop but see me with questions.)<br>
-<br>
-Most importantly: have fun with this one. Test Scalar and see how you can express a workflow in various ways. And as you compose, consider how these steps will transfer to the study of literature in digital environments.<br>
-<br>
-<hr>Author: <a style="z-index: 0; position: relative;" href="users/17" rel="urn:scalar:version:20147">Jentery Sayers</a><br>
-Word Count: 913<br>
-Original Prompt: <a style="z-index: 0; position: relative;" href="http://web.uvic.ca/~englblog/507s2012/portfolio/meeting-2/">"Workflow, Part I"</a> and <a style="z-index: 0; position: relative;" href="http://web.uvic.ca/~englblog/507s2012/portfolio/meeting-3/">"Workflow, Part II"<br>
-</a><br>
-Example student responses follow in this path.</div>
+For Cinema Journal in 2009, Tara McPherson wrote the following:
 
-<div class="content" id="content_wrapper">
-<!-- Content: Plain view -->
-<div id="content"><a class="inline media_page" href="http://player.vimeo.com/video/35305611" resource="macpherson-workflow-page1"></a><div class="inline_slot"><div style="width: 460.667px; margin-left: 165.5px;" class="mediaelement"><div class="mediaElementHeader"><p class="mediaElementAlignLeft">A Workflow, Analog and Digital<span style="font-size:10px"> / Shaun Macpherson / Vimeo</span></p><p class="mediaElementAlignRight annotationToggle"><a href="javascript:;">Annotations</a></p></div><div style="height: 348px; display: none;" class="mediaElementAnnotationSidebar"><div style="display:none;" class="annotationChip dark">No annotations to display.</div></div><div style="float: right; max-width: 791px; background-image: url(&quot;&quot;);" class="mediaContainer"><div style="padding: 5px 4px;" class="mediaObject"><iframe style="width: 450.667px; height: 338px;" id="vimeo35305611_0" src="http://player.vimeo.com/video/35305611?api=1&amp;player_id=vimeo35305611_0" frameborder="0"></iframe></div></div><div class="mediaElementFooter"><p class="mediaElementAlignRight mediaElementAlignRightDetails"><a id="viewPageLink" class="generic_button">View Page</a> <a id="maximizeLink" class="generic_button" href="javascript:;">Details</a></p><div style="display: none; width: 791px;" class="annotationDisplay"><p>This is the display</p></div></div></div></div></div>
+Tara McPherson, "Media Studies and the Digital Humanities," Page 120
 
-<div id="referenced">Referenced by <a href="http://scalar.usc.edu/maker/english-507/users/107">Shaun Macpherson</a></div><!-- Reply list -->
-<div id="reply_list">
-  
-   <a href="javascript:;" class="inline_icon_link reply reply_link">Join this media's discussion (1 comment)</a>
- 
-  
+Annotations
+Screengrab of Article in Cinema Journal 48.2 (Winter 2009)
 
-	<div class="maximize" id="comments" style="opacity: 1;">
-		<div class="maximize_fade"></div>
-		<div class="maximize_content maximize_content_static_width">	
-			<div class="mediaElementHeader mediaElementHeaderWithNavBar">
-				<ul class="nav_bar_options">
-					<span class="downArrow"><li id="max_desc_button" class="sel" title="Comments for this page">Local Discussion</li></span>
-					<span class="noArrow"><li id="max_perm_button" title="Load comments in a new browser window" onclick="popoutComments();">Popout</li></span>
-				</ul>
-				<span class="close_link"><a id="close_link" title="Close" href="javascript:;">&nbsp;</a></span>
-				<p class="mediaElementAlignRight" style="display: block; "></p>
-			</div>
-			<div class="comments">
-				<h4 class="content_title">Discussion of "A Workflow, Analog and Digital"</h4>
-							
-				<div class="discussion">
-	
-<div class="comment level-0" style="margin-left:0px"><a name="comment-23544"></a>
-<p class="comment_title">Visualizing the Interface</p>
-The screencast format lends itself well to this exercise, since it allows us to visually express our relationships with the various interfaces we use. That said, the constraint on length (1–2 minutes) in the prompt made this response a challenge to work through. As the project unfolded, I realized how many different elements I could include. In the end, while the video was fun to make, the end product feels a bit rushed at times. In future, since we all enjoyed watching each other's submissions (both for production values and for the chance to see how each workflow plays out), it might work well to have each participant choose one or two programs or applications that they think others might benefit from learning more about, and using the time to demonstrate the features of these tools in more detail.<br>
-<br>
-<hr>Author: <a href="users/107" rel="urn:scalar:version:23532">Shaun Macpherson </a><br>
-Word Count: 140<p class="comment_attrib">Posted on 28 August 2012, 9:10 pm by Shaun Macpherson &nbsp;<span style="font-size:smaller;">| &nbsp;<a href="http://scalar.usc.edu/maker/english-507/macpherson-workflow-comment1" title="Permalink" onclick="return commentCheckPermalink(this);">Permalink</a></span></p>
-</div>
+Details
 
+The "we" in McPherson's sentence may be interpreted as media studies practitioners in particular or humanities practitioners in general. And in 2012, I took her statement seriously as a challenge to teaching and learning at the graduate level. That year, I designed and taught a graduate seminar in the Department of English at the University of Victoria (UVic). The focus of the seminar, titled "English 507, Digital Literary Studies: History and Principles," was multimodal scholarly communications—or the blend of multiple media (e.g., maps, video, audio, graphs, code, images, and text) with various modes of attention (e.g., close listening, distant reading, distraction, computer vision, and repeated watching) toward persuasive, research-based argumentation.
+
+Throughout the semester, students in English 507 combined knowing and doing in response to various prompts. For practically every seminar meeting, an exercise in multimodal methods was due. I would post the prompts on the course site, and then students would publish their responses in the seminar's collaborative "Scalar" book, a screengrab of which is below. (Learn more about Scalar, if you are not familiar with it. It is also the platform used to compose this book.) 
+
+Screengrab of Original English 507 Scalar Book (2012)
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+I have never learned so much from teaching a course, and my learning was largely due to the range, sophistication, and curiosity of the students' work.
+
+Since English 507, the students and I collaborated to produce the Scalar book in front of you, a revision of the collaborative original. This book includes not only the prompts from English 507 but also example student responses for each. Additionally, for this publication, the students went an extra step in the writing process: they added a layer of both analysis and commentary to their own work. These added layers are rich and informative, demonstrating self-reflexivity and exhibiting perspectives too often marginalized by the pace of a quarter or semester. Such perspectives are also rarely represented in faculty publications on teaching and learning. 
+
+That said, the ultimate aim of this book—a revision, analysis, and commentary on a semester's worth of multimodal communications produced in Scalar—is to give audiences a concrete sense of how graduate students are actively engaging the emerging and experimental terrain of digital scholarship. It is not a book brimming with hypotheticals. It is instead rife with actual instances of what multimodal composition in Scalar can afford, and what graduate students can do with and through it.  
+
+The audiences for this book include people who want more examples of how to use Scalar (in and beyond the classroom) as well as writing studies instructors, literary critics, cultural studies scholars, digital humanities and media studies practitioners, transmedia artists, and anyone who develops and facilitates university curricula and related infrastructures.
+
+To help all of those audiences carve their way through the 35,000-plus words contained here, not to mention all of the media files, annotations, and comments, we have structured the book through eleven "paths" (i.e., linear sequences of often overlapping content) based on the following:
+
+(1) English 507 prompts (seven total paths: "Workflow," "Metadata," "Granulation," "Map," "Review," "Proposal," and "Roundtable")
+
+Screengrab of the Path for the "Workflow" Prompt
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+(2) a student analysis of using Scalar in English 507 (one path)
+
+Screengrab of the Analysis Path
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+(3) the authors of this book (one path) 
+
+Screengrab of the Authors Path
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+and (4) student commentary on this book, Scalar, and English 507 (one path).
+
+Screengrab of the Commentary Path
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+Again, each prompt path provides audiences with a specific English 507 prompt and example student responses. The "analysis" path (written by Alyssa McLeod, Jana Millar Usiskin, and Emily Smith) then navigates its way through the prompts and example responses, using student work from the graduate seminar as evidence of the various scholarly inquiries and problematics involved in contemporary multimodal communications. The "authors" path gives audiences a sense of the students and faculty contributing to this book, and—finally—the "commentary" path informally adds frequently overlooked or unspoken perspectives on the intellectual, affective, and technical processes involved in composing multimodal communications. 
+
+Screengrab of an Example Comment, by Alison Hedley
+
+Annotations
+From English 507 at the University of Victoria
+
+Details
+
+All of these paths have been bundled below, in the "welcome" path, which allows visitors to survey the book and dive into their particular areas of interest (e.g., research on multimodal communication, teaching materials for digital literary studies, or sample work by graduate students contributing to digital humanities curricula) through a specific path. 
+
+The use of Scalar aside, audiences will likely notice at least two unusual things about this book: first, beyond the prompts and introductions to each path, the instructor has written little. My motivation for this approach to the book was to facilitate student work rather than overshadow it (e.g., by speaking for or about it). As such, most of my contributions—beyond designing and teaching the seminar—assumed the form of feedback, consultation, editing the book, designing it, and sparking collaborations amongst students.
+
+Second, analysis and commentary—especially in the "proposal" and "roundtable" paths—frequently reference the students' final projects and papers for 507. However, those actual projects and papers are not included here. The rationale for this decision was to give students the opportunity to continue developing and perhaps publish elsewhere the research they began (or furthered) in the seminar, making this book primarily a space for documenting research procedures, processes, and reflections. With support from the Department of English at UVic, the Social Sciences and Humanities Research Council of Canada, the Electronic Textual Cultures Lab at UVic, the Maker Lab in the Humanities at UVic, the Digital Humanities Summer Institute, and the HASTAC Scholars Program, that research has indeed continued well into 2012, and I encourage audiences to continue following the work of the authors included here. Not only is it inspiring; it is gradually changing the contours of scholarly argumentation and expression. 
+
+Let the active construction of knowledge in and through our objects begin. 
+
+Author: Jentery Sayers
+Word Count: 951
