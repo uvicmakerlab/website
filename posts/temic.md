@@ -1,4 +1,4 @@
-Slidedeck for TEMiC 2013 Keynote
+# Slidedeck for TEMiC 2013 Keynote
 Jentery Sayers on August 9, 2013   SerialMonograph  
 
 <p>Last week, I had the wonderful opportunity to give a talk at <a title="learn more" href="http://editingmodernism.ca/training/summer-institutes/temic/" target="_blank">Textual Editing and Modernism in Canada (TEMiC) 2013</a> (University of British Columbia, Okanagan), co-directed by Karis Shearer and Dean Irvine. The event&#8217;s theme, &#8220;Editing Modernism On and Off the Page,&#8221; was an engaging one, intersecting media and material culture studies with literary and textual studies. In conversation with the theme, my talk—&#8221;Editing, Annotating, and Discovering Historical Audio&#8221;—addressed how researchers might best integrate digital audio into scholarly monographs and journals, and I ended with a best case scenario of sorts, outlining the features of an ideal scholarly audio tool (informed in part by Jonathan Sterne&#8217;s recent work) for multimodal authoring and publication platforms like Scalar and Omeka.</p>
