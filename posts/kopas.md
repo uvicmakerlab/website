@@ -1,4 +1,4 @@
-merritt kopas Visits UVic to Talk Games
+# merritt kopas Visits UVic to Talk Games
 Jentery Sayers on August 28, 2013   BuildingPH
 
 <p>As part of the <a title="learn more" href="http://maker.uvic.ca/buildingph/">&#8220;Building Public Humanities&#8221;</a> project, and with support from the <a title="learn more" href="http://etcl.uvic.ca/" target="_blank">Electronic Textual Cultures Lab</a>, merritt kopas will be visiting the University of Victoria on September 18th to give both a talk and a workshop on videogames and gaming cultures. <a title="learn more" href="http://mkopas.net/" target="_blank">merritt</a> is an artist and game designer whose work deals with themes of bodies, gender, and difference. Her game <a title="learn more" href="http://mkopas.net/files/Lim/" target="_blank">LIM</a>, an exploration of the violence of liminality, was named in several best indie games of 2012 lists. She holds an MA in Sociology from the University of Washington and teaches in the areas of gender and sexuality.</p>
