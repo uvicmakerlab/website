@@ -2,15 +2,19 @@
 
 ##Select "+ New"
 
-Enter title and body of post, add any links or media that you want to appear directly in the body of the post. 
+Enter title. Make it catchy!
 
 Underneath the title is a line that says "Permalink" with a url following. Edit the url so that after "maker.uvic.ca/" there is only one word, like "maker.uvic.ca/post"
 
+Add body of post, add any links or media that you want to appear directly in the body of the post. If there are any blockquotes, put them in italics so they stand out. Read through the body of the post and edit it just one more time to make sure all's well. 
+
+We like pullquotes! Make sure each post has a couple, especially if it's "image-light." Pull out the most profound sentences or fragments you can find. 
+
 At the end of your post, hit "Return," then say:
 
-"Post by YourName Here, attached to the WhicheverWhatever project(s), with the whichever tag(s). Featured image(s) for this post care of whereveryougotit."
+"Post by AuthorsName Here, attached to the WhicheverWhatever project(s), with the whichever tag(s). Featured image(s) for this post care of whereveryougotit."
 
-Add a link to your name that will lead to your archive page (maker.uvic.ca/author/yourfirstname), and link the project and tag to their archive pages as well. 
+Add a link to the author's archive page (maker.uvic.ca/author/yourfirstname), and link the project(s) and tag(s) to their archive pages as well. 
 
 Make sure you then select whichever projects you identified for the post from the "Categories" bar on the right. Please don't add your own category! 
 
@@ -47,7 +51,7 @@ Set background colour for this post: Leave blank
 
 ##Post Format
 
-Select post format: Select either "Gallery" if it's a regular post (you will need at least two images), or "Video" if it's a video post. 
+Select post format: Select either "Gallery" if it's a regular post (you will need at least two images), or "Video" if it's a video post. If the images are all different sizes and acting atrociously, make just an "Image" post instead, as it can be fincky and just the worst. 
 
 If a Gallery post, upload the images you're using (at least two) into the "Attached gallerys" section that will pop up. This will add your images to the rest of the media selections on the site. 
 
