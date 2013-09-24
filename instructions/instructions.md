@@ -2,6 +2,8 @@
 
 ##Select "+ New"
 
+![new button](/new.png.)
+
 Enter title. Make it catchy!
 
 Underneath the title is a line that says "Permalink" with a url following. Edit the url so that after "maker.uvic.ca/" there is only one word, like "maker.uvic.ca/post"
