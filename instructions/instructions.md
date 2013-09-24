@@ -16,12 +16,15 @@ At the end of your post, hit "Return," then say:
 
 "Post by AuthorsName Here, attached to the WhicheverWhatever project(s), with the whichever tag(s). Featured image(s) for this post care of whereveryougotit."
 
+![title and body](titleandbody2.png)
+
 Add a link to the author's archive page (maker.uvic.ca/author/yourfirstname), and link the project(s) and tag(s) to their archive pages as well. 
 
 Make sure you then select whichever projects you identified for the post from the "Categories" bar on the right. Please don't add your own category! 
 
 Also select tags for the post from the "Tags" bar below "Categories." Click the "Choose from the most used tags" option and select which ones you want to use from there. Please do not invent your own tags!
 
+![tags](tags.png)
 
 *DO NOT SELECT A FEATURED IMAGE YET* That comes later.  
 
@@ -41,6 +44,8 @@ Display featured image on archive pages: Yes
 
 Enable navigation for this post: Yes
 
+![post settings](postsettings1.png)
+
 Upload or choose image from media library: bit.ly/makerpaper 
 
 Image background position: Left
@@ -49,7 +54,9 @@ Image background repeat: Tile
 
 Image background attachment type: Scroll
 
-Set background colour for this post: Leave blank 
+Set background colour for this post: Leave blank
+
+![post settings 2](postsettings2.png)
 
 ##Post Format
 
@@ -58,6 +65,8 @@ Select post format: Select either "Gallery" if it's a regular post (you will nee
 If a Gallery post, upload the images you're using (at least two) into the "Attached gallerys" section that will pop up. This will add your images to the rest of the media selections on the site. 
 
 *Upload the images in order.* The one you want to appear first MUST be uploaded first, the one you want to scroll to second must be uploaded second, etc. 
+
+![format](postformat.png)
 
 THEN go to the feature image window on the right side of the page and select one of your images as your "featured image." 
 
