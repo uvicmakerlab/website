@@ -1,0 +1,10 @@
+Public Humanities Workshop w/ Lynne Siemens
+Nina Belojevic on November 14, 2013
+
+<p>On November 26th, as part of the <a title="learn more" href="http://maker.uvic.ca/buildingph/">“Building Public Humanities”</a> project and the <a title="learn more" href="http://maker.uvic.ca/hello/">&#8220;Hello World&#8221;</a> workshop series, and with support from the <a title="learn more" href="http://etcl.uvic.ca/" target="_blank">Electronic Textual Cultures Lab</a> and the Maker Lab in the Humanities, <a title="learn more" href="http://www.uvic.ca/hsd/publicadmin/aboutUs/home/facultystaff/siemens.php" target="_blank">Lynne Siemens</a> will be leading a workshop on managing public humanities projects. Siemens is an Assistant Professor in the School of Public Administration at the University of Victoria. Her work focuses on academic entrepreneurship, teams, and collaboration. During this workshop we will look at methods to develop, define, plan, and manage successful public humanities projects that allow scholars to share content with a wider audience, work with partners, and demonstrate the social, cultural, and political relevance of humanities research. Graduate students are especially encouraged to attend.</p>
+<h3>Public Humanities Project Management</h3>
+<p>When: Tuesday, November 26th at 3:00pm<br />
+Where: Maker Lab in the Humanities (TEF 243)<br />
+Register: Please email <a href="mailto:maker@uvic.ca">maker@uvic.ca</a>.</p>
+<p><a href="http://maker.uvic.ca/wp-content/uploads/2013/11/siemensworkshop.jpg"><img class="alignnone size-full wp-image-3936" alt="Siemens Workshop" src="http://maker.uvic.ca/wp-content/uploads/2013/11/siemensworkshop.jpg" width="1150" height="1894" /></a></p>
+<p>Post by <a title="learn more" href="http://maker.uvic.ca/author/nbelojevic/">Nina Belojevic</a>, attached to the <a title="learn more" href="http://maker.uvic.ca/category/hello">HelloWorld</a> and <a title="learn more" href="http://maker.uvic.ca/category/ph">BuildingPH</a> projects, with the <a title="learn more" href="http://maker.uvic.ca/tag/news">news</a> tag. Poster for the event care of Nina Belojevic and Jon Johnson.</p>
