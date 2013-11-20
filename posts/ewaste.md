@@ -1,0 +1,8 @@
+#This Wednesday: Approaches to E-Waste
+Keddy Pavlik on November 2, 2013
+
+<p>The <a title="learn more" href="http://etcl.uvic.ca/2013/10/29/1416/" target="_blank">Electronic Textual Cultures Lab</a> is delighted to announce that <a title="learn more" href="http://maker.uvic.ca/author/admin/">Jentery Sayers</a> will lead the next session of <a title="learn more" href="http://etcl.uvic.ca/?s=nuts+bolts" target="_blank">“The Nuts and Bolts of Digital Humanities,”</a> Wednesday, November 6th, from 3:30 to 4:30 in the University Club lounge at UVic. Here&#8217;s a quick description of the event:</p>
+<h3>Creative and Critical Approaches to E-Waste</h3>
+<p>How and to what effects does digital research produce e-waste? And how can faculty, students, and staff at UVic not only become more aware of such waste but also re-purpose it for their creative and critical projects? This conversation will unpack these two questions, with an emphasis on <a title="learn more" href="http://sterneworks.org/OutwiththeTrash.pdf" target="_blank">&#8220;convivial computing&#8221;</a> and the materiality of technologies.</p>
+<p>We hope to see you there!</p>
+<p>Post by <a title="learn more" href="http://maker.uvic.ca/author/keddy/">Keddy Pavlik</a>, based on an ETCL <a href="http://etcl.uvic.ca/2013/10/29/1416/" target="_blank">post</a> by Matthew Hiebert, attached to the <a title="learn more" href="http://maker.uvic.ca/category/makerspace/">Makerspace</a> project, with the <a title="learn more" href="http://maker.uvic.ca/tag/news/">news</a> tag. Featured image for this post care of <a title="learn more" href="http://maker.uvic.ca/nesbending/">Nina Belojevic</a>.</p>
