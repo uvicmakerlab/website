@@ -1,4 +1,4 @@
-Hands-On Textuality
+#Hands-On Textuality
 Alex Christie on November 19, 2013 
 
 <p>In addition to my <a title="learn more" href="http://maker.uvic.ca/category/zaxis/">z-axis research</a> in the Maker Lab this year, I am working on a small-scale project for a scholarly indie game, developed in conjunction with the <a title="learn more" href="http://web.uvic.ca/~mvp1922/" target="_blank">Modernist Versions Project</a> and <a title="learn more" href="http://inke.ca/" target="_blank">Implementing New Knowledge Environments</a>. Soon we’ll have more details to share, but&#8212;while we have been researching and prototyping the game&#8212;I’ve been working through the connections between scholarly editing and videogame design.</p>
