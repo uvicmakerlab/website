@@ -1,4 +1,4 @@
-Cultural or Technological Determinism?
+#Cultural or Technological Determinism?
 Zaqir Virani on February 13, 2014   KitsForCulture 
 
 <p>While researching and developing the lab&#8217;s <a title="learn more" href="http://maker.uvic.ca/category/kits/">kits for cultural history</a>, I have realized why the choice of physical materials is so important to the reconstruction of old technologies and historical mechanisms, such as Gustave Trouvé&#8217;s &#8220;electric jewels&#8221; (pictured below), which are part of our <a title="learn more" href="http://maker.uvic.ca/debut/">early wearables kit</a>.</p>
