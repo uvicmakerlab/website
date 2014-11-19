@@ -1,4 +1,4 @@
-NANO: Digital Humanities, Public Humanities
+#NANO: Digital Humanities, Public Humanities
 Shaun Macpherson on August 1, 2014   Makerspace 
 
 <p>In March 2013, <a href="http://www.nanocrit.com/"><em>New American Notes Online</em> (<em>NANO</em>)</a>&#8212;an online, open-access, peer-reviewed interdisciplinary journal&#8212;invited Jentery Sayers and the Maker Lab in the Humanities to act as guest editors of a special issue titled, &#8220;Digital Humanities, Public Humanities.&#8221; The MLab team <a title="learn more" href="http://maker.uvic.ca/dhph/">circulated a CFP</a> in May that invited submissions speaking to &#8220;how, when, and for whom digital humanities is also public humanities.&#8221; Preference was given to project-based submissions that explored the intersections of technology, computation, critical theory, and social justice. In particular, multimodal pieces across text, image, video, and audio were encouraged.</p>
