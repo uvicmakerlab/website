@@ -1,4 +1,4 @@
-The Aesthetics of Trouvé’s Skull
+#The Aesthetics of Trouvé’s Skull
 Nicole Clouston on October 29, 2014   KitsForCulture
 
 <p>In our continued work on the <a title="learn more" href="http://maker.uvic.ca/category/kits">Kits for Cultural History</a>, the Maker Lab team has been focusing on <a title="learn more" href="http://collections.vam.ac.uk/item/O115814/stick-pin-cadet-picard-auguste/" target="_blank">Gustave Trouvé’s skull stick pin</a>: a Victorian-era, motorized skull that was designed to adhere to a man’s tie, gnash its teeth, and roll its eyes. To make the pin (picture below, from our <a title="learn more" href="https://github.com/uvicmakerlab/trouve" target="_blank">GitHub repo</a>), Trouvé collaborated with artist, Auguste-Germain Cadet-Picard.</p>
