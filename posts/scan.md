@@ -1,4 +1,4 @@
-Dear Academy: Where’s the Fab?
+#Dear Academy: Where’s the Fab?
 Katherine Goertz on November 10, 2014   Makerspace 
 
 <p>In the Maker Lab, we&#8217;ve been conducting <a title="download it" href="http://maker.uvic.ca/wp-content/uploads/2014/11/fabSurveyByUVicMakerLab.xlsx">an environmental scan</a> of the digital fabrication research happening on Canadian and U.S. campuses, with an emphasis on research labs, centres, and hubs. Searching for what scholars across the disciplines are doing with computer-aided manufacturing (CAM), we have thus far identified 79 such spaces, most of which are in the sciences, engineering, and architecture. Gathering data for the geographic locations of these spaces, together with their departments and institutions as well as their mandates and URLs, we&#8217;ve also noticed that a majority has more than one computer numerical control (CNC) machine (e.g., a CNC router).</p>
