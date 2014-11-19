@@ -1,4 +1,4 @@
-Designing a Case for a Kit
+#Designing a Case for a Kit
 Nina Belojevic on November 6, 2014   KitsForCulture 
 
 <p>For the <a href="http://maker.uvic.ca/lima/">early wearables kit</a>, we are looking at wearable electronic technologies that precede Google Glass, bluetooth headsets, and even calculator watches. This semester, our Maker Lab team is designing and modelling a series of pieces based on electric jewellery invented by French engineer, <a href="http://maker.uvic.ca/bienfait/">Gustave Trouvé</a>, in the 1860s and &#8217;80s. For example, we are making a light-up, <a href="http://maker.uvic.ca/debut/">filigree hair pin</a> and a pocket pin with a <a href="http://maker.uvic.ca/aesthetics/">skull</a> gnashing its teeth.</p>
