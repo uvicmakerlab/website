@@ -27,7 +27,6 @@ September 11, 2015
 <p>While this aspect of the <a href="http://maker.uvic.ca/kch/">Kits</a> project is not quite complete, I feel proud of how it has progressed, not only due to the various insights afforded by the designs, but also because of the methodological approaches we developed in order to speculate about the particulars of media history. The work has amounted to a close reading of technology: in the absence of first-hand knowledge, we have taken an historically informed approach to deciphering a mechanism and experimenting with versions of it. Perhaps even more important, the Kits&#8217; collaborative research model has proven both invaluable and absolutely necessary to creating prototypes that balance technical particulars with historical, cultural, creative, and conjectural methods.</p>
 <hr />
 <p>Post by <a title="learn more" href="http://maker.uvic.ca/author/shaun/">Shaun Macpherson</a>, attached to the <a title="learn more" href="http://maker.uvic.ca/category/kits/">KitsForCulture</a> project, with the <a title="learn more" href="http://maker.uvic.ca/tag/fabrication/">fabrication</a> and <a title="learn more" href="http://maker.uvic.ca/tag/versioning/">versioning</a> tags. Images, sketches, and videos for this post care of Shaun Macpherson, Nina Belojevic, Katie McQueston, Danielle Morgan, and the Maker Lab, except where otherwise noted.</p>
-            <div class="pagenumbers">
 
 
 
