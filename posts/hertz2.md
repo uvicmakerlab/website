@@ -1,6 +1,7 @@
 # Workshop: Garnet Hertz on Making Cards
 
 March 10, 2015
+
 <p>In partnership with the <a href="http://etcl.uvic.ca/" target="_blank">Electronic Textual Cultures Lab</a>, we are happy to announce Garnet Hertz&#8217;s March 18th workshop at UVic. Details and poster below. Hope to see you there!</p>
 <hr />
 <p><strong>Critical Making Cards: Sketching New Technologies</strong><br />
