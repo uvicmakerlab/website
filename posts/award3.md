@@ -1,6 +1,7 @@
 # The 2014-15 Praxis Innovation Award
 
 August 19, 2015
+
 <p>We are happy to announce the 2014-15 Digital Humanities Praxis Innovation Award, sponsored by the <a title="learn more" href="http://etcl.uvic.ca/" target="_blank">Electronic Textual Cultures Lab</a> (an Intellectual Centre for Digital Humanities@UVic) and the Maker Lab in the Humanities at UVic. Details are below. Please note the deadline for projects built during the 2014-15 academic year is 11:59pm, 5 October 2015.</p>
 <p>Students across the <a title="learn more" href="http://www.uvic.ca/" target="_blank">University of Victoria</a> are invited to submit projects (emerging from their courses of study) that demonstrate innovation in how digital research, learning, and scholarly communication are designed, practiced, expressed, and imagined in the context of the Humanities. Project types and formats of all sorts, from all areas and degrees of expertise, are welcome, from the technical to the theoretical to the creative. Successful projects will combine critical approaches to a given problem with technological or computational methods, broadly understood.</p>
 <h4>Award</h4>
