@@ -1,6 +1,7 @@
 # The Kits + the DFL Appear in The Ring
 
 May 6, 2015
+
 <p>Thanks to <a href="http://ring.uvic.ca/content/tara-sharpe" target="_blank">Tara Sharpe</a> for writing a piece on the <a href="http://maker.uvic.ca/kch">Kits for Cultural History</a> and our new <a href="http://maker.uvic.ca/dfl/">Digital Fabrication Lab</a> for <em><a href="http://ring.uvic.ca/" target="_blank">The Ring</a></em> at UVic. The piece, titled <a href="http://ring.uvic.ca/news/makerspaces-matter" target="_blank">&#8220;Makerspaces Matter,&#8221;</a> appeared both online and in print. Two excerpts are below.</p>
 <p style="padding-left: 30px;"><em>The lab is remaking and reinvigorating antiquated technologies—which are no longer accessible and perhaps never functioned properly in the first place—by creating high resolution 3D models and manufacturing them with computer-controlled machines. “Put this way, the Maker Lab actively intervenes in the stuff of material history, determining what is missing and then circulating physical prototypes of the absences for interpretation,” says Sayers.</em></p>
 <p>And:</p>
