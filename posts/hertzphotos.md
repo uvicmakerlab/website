@@ -1,6 +1,7 @@
 # Photos from Hertz’s Workshop
 
 March 22, 2015
+
 <p>Last week, <a title="learn more" href="http://conceptlab.com/" target="_blank">Garnet Hertz</a> visited the MLab and facilitated a <a title="learn more" href="http://maker.uvic.ca/hertz2/" target="_blank">fantastic workshop</a> using a deck of cards he designed. Below are some photos from the event. There was clay, and fun was had. Thanks again, Garnet, for your time and generosity. Thanks, too, to the <a title="learn more" href="http://etcl.uvic.ca/" target="_blank">ETCL</a> for co-sponsoring the workshop.</p>
 <div id="attachment_5381" style="width: 1160px" class="wp-caption alignnone"><a href="http://maker.uvic.ca/wp-content/uploads/2015/03/clay.jpg"><img class="wp-image-5381 size-full" src="http://maker.uvic.ca/wp-content/uploads/2015/03/garnet.jpg" alt="Garnet Hertz in the MLab" width="1150" height="767" /></a><p class="wp-caption-text">Garnet in the MLab</p></div>
 <div id="attachment_5382" style="width: 1160px" class="wp-caption alignnone"><a href="http://maker.uvic.ca/wp-content/uploads/2015/03/nicole.jpg"><img class="wp-image-5382 size-full" src="http://maker.uvic.ca/wp-content/uploads/2015/03/nicole.jpg" alt="Nicole's &quot;Selfie Trough&quot; for Cows" width="1150" height="767" /></a><p class="wp-caption-text">Nicole&#8217;s &#8220;Selfie Trough&#8221; for Cows</p></div>
