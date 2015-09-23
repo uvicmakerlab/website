@@ -1,6 +1,7 @@
 # Digital Music Circulation in Cuba
 
 March 12, 2015
+
 <p>We are happy to announce Alexandrine Boudreault-Fournier&#8217;s talk, &#8220;Digital Music Circulation in Contemporary Cuba,&#8221; which will take place on Friday, March 20th at UVic. Details and poster below. Hope to see you there!</p>
 <hr />
 <p><strong>Digital Music Circulation in Contemporary Cuba</strong><br />
